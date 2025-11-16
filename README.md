@@ -1,4 +1,4 @@
-# SCM-FINAL
+# Social Share Buttons
 <P>Project Description:<br>
 This project aims to implement social share buttons on a website to enhance content reach, user engagement, and brand visibility through seamless sharing options on popular social media platforms.<br>
 
